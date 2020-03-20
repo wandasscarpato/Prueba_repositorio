@@ -14,4 +14,4 @@ function dividir(pepeA,pepeB){//es lo mismo que opA y opB
 module.exports= [sumar,
     "restar":restar,
     "multiplicar":multiplicar,
-    "dividir":dividir];
+    "dividir":dividir ];
